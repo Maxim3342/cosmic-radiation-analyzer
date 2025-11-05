@@ -1,4 +1,3 @@
-#
 import streamlit as st
 
 # Просто заголовок и кнопка
@@ -13,4 +12,6 @@ if clicked:
     st.write("Здесь будет ваш текст о космической радиации")
     st.markdown("[Читать полную статью](https://www.vokrugsveta.ru/articles/nevidimaya-ugroza-na-puti-k-drugim-planetam-chto-takoe-kosmicheskaya-radiaciya-i-kak-ot-nee-zashititsya-id6255282/)")
 else:
-    st.write("Нажмите кнопку 'Теория' выше")+
+    st.write("Нажмите кнопку 'Теория' выше") 
+
+    ##
